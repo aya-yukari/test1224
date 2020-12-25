@@ -11,6 +11,7 @@ public class Student {
     boolean sex;
     public static final double MATH_PI = 3.14159265;
     public String aya;
+    public int ayayuoworker;
 
     @Override
     public int hashCode() {
