@@ -13,7 +13,9 @@ public class Student {
     public String aya;
     public int ayayuoworker;
     public int phone;
-    
+    public String id;
+
+
     @Override
     public int hashCode() {
         return super.hashCode();
