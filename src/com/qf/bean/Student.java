@@ -10,5 +10,6 @@ public class Student {
     protected int age;
     boolean sex;
     public static final double MATH_PI = 3.14159265;
+    public String aya;
 
 }
