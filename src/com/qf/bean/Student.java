@@ -12,6 +12,7 @@ public class Student {
     public static final double MATH_PI = 3.14159265;
     public String aya;
     public int ayayuoworker;
+    public String id;
 
     @Override
     public int hashCode() {
